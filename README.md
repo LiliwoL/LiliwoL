@@ -24,13 +24,31 @@
     <br/><br/>
     <hr/>
     <div>
-      <a href="#vuejs"><img src="./readme_docs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;</a>
+        <a href="#vuejs"><img src="./readme_docs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;</a>
+        <a href="#python"><img src="./readme_docs/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
+        <a href="#raspberry"><img src="./readme_docs/raspberrypi-original-wordmark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;</a>
     </div>
     <br/><br/>
     <hr/>
     <h2 id="vuejs">
         Projets utilisant Vue:
         <a href="https://github.com/LiliwoL/Vue-Cours-Metaux-Precieux">Cours des métaux précieux</a>
+        <br/>
+        <a href="https://github.com/LiliwoL/Vue-Raspberry-Domotique-Prises-Connectees">Frontend pour un projet Raspberry Pi de prises connectées</a>
+    </h2>
+    <br/><br/>
+    <hr/>
+    <h2 id="python">
+        Projets utilisant Python:
+        <a href="https://github.com/LiliwoL/Python-Raspberry-Domotique-Prises-Connectees">Backend pour un projet Raspberry Pi de prises connectées</a>
         <br/>        
+    </h2>
+    <br/><br/>
+    <hr/>
+    <h2 id="raspberry">
+        Projets pour les raspberry pi:
+        <a href="https://github.com/LiliwoL/Python-Raspberry-Domotique-Prises-Connectees">Backend pour un projet Raspberry Pi de prises connectées</a>        
+        <br/>
+        <a href="https://github.com/LiliwoL/Vue-Raspberry-Domotique-Prises-Connectees">Frontend pour un projet Raspberry Pi de prises connectées</a>
     </h2>
 </div>
