@@ -41,6 +41,7 @@
     <hr/>
     <h2 id="python">
         Projets utilisant Python:
+        <br/>
         <a href="https://github.com/LiliwoL/Python-Raspberry-Domotique-Prises-Connectees">Backend pour un projet Raspberry Pi de prises connectées</a>
         <br/>        
     </h2>
@@ -48,6 +49,7 @@
     <hr/>
     <h2 id="raspberry">
         Projets pour les raspberry pi:
+        <br/>
         <a href="https://github.com/LiliwoL/Python-Raspberry-Domotique-Prises-Connectees">Backend pour un projet Raspberry Pi de prises connectées</a>        
         <br/>
         <a href="https://github.com/LiliwoL/Vue-Raspberry-Domotique-Prises-Connectees">Frontend pour un projet Raspberry Pi de prises connectées</a>
@@ -56,6 +58,7 @@
     <hr/>
     <h2 id="docker">
         Projets pour Docker:
+        <br/>
         <a href="https://github.com/LiliwoL/Docker-MongoDB">Docker Mongo et Mongo Express</a>
     </h2>
 </div>
