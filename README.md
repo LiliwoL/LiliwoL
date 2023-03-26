@@ -33,6 +33,7 @@
     <hr/>
     <h2 id="vuejs">
         Projets utilisant Vue:
+        <br/>
         <a href="https://github.com/LiliwoL/Vue-Cours-Metaux-Precieux">Cours des métaux précieux</a>
         <br/>
         <a href="https://github.com/LiliwoL/Vue-Raspberry-Domotique-Prises-Connectees">Frontend pour un projet Raspberry Pi de prises connectées</a>
