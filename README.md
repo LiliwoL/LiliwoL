@@ -30,8 +30,7 @@
     <hr/>
     <h2 id="vuejs">
         Projets utilisant Vue:
-        <ul>
-            <li><a href="https://github.com/LiliwoL/Vue-Cours-Metaux-Precieux">Cours des métaux précieux</a></li>
-        </ul>
+        <a href="https://github.com/LiliwoL/Vue-Cours-Metaux-Precieux">Cours des métaux précieux</a>
+        <br/>        
     </h2>
 </div>
