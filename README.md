@@ -45,7 +45,8 @@
         Projets utilisant Python:
         <br/>
         <a href="https://github.com/LiliwoL/Python-Raspberry-Domotique-Prises-Connectees">Backend pour un projet Raspberry Pi de prises connectées</a>
-        <br/>        
+        <br/>
+        <a href="https://github.com/LiliwoL/Python-socket">Programmation Socket</a>        
     </h2>
     <br/><br/>
     <hr/>
