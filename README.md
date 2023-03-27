@@ -18,7 +18,7 @@
     </a>
     <p>
         <em>
-            Web dev teacher at <a href="https://fenelon-notredame.com">Lycée Fénelon Notre Dame    <img src="https://github.com/LiliwoL/LiliwoL/blob/main/fenelon.png?raw=true" width="50"></a></br>Developer Consultant at <a href="https://www.liliwol.fr">LiliwoL   <img src="https://www.root-me.org/IMG/logo/auton697507.png?1674410558" width="50"></a> 
+            Web dev teacher at <a href="https://fenelon-notredame.com">Lycée Fénelon Notre Dame    <img src="https://github.com/LiliwoL/LiliwoL/blob/main/readme_docs/fenelon.png?raw=true" width="50"></a></br>Developer Consultant at <a href="https://www.liliwol.fr">LiliwoL   <img src="https://www.root-me.org/IMG/logo/auton697507.png?1674410558" width="50"></a> 
         </em>
     </p>
     <br/><br/>
@@ -28,6 +28,7 @@
         <a href="#python"><img src="./readme_docs/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
         <a href="#raspberry"><img src="./readme_docs/raspberrypi-original-wordmark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;</a>
         <a href="#docker"><img src="./readme_docs/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</a>
+        <a href="#symfony"><img src="./readme_docs/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;</a>
     </div>
     <br/><br/>
     <hr/>
@@ -61,5 +62,16 @@
         Projets pour Docker:
         <br/>
         <a href="https://github.com/LiliwoL/Docker-MongoDB">Docker Mongo et Mongo Express</a>
+    </h2>
+    <br/><br/>
+    <hr/>
+    <h2 id="symfony">
+        Projets pour Symfony:
+        <br/>
+        <a href="https://github.com/LiliwoL/Symfony-API-Gestion-Stages-Etudiants">API Gestion de stages - BTS SIO</a>
+        <br/>
+        <a href="https://github.com/LiliwoL/Symfony-Sortir-dot-com">Sortir.com - BTS SIO</a>
+        <br/>
+        <a href="https://github.com/LiliwoL/Symfony-Cine">SymfonyCine - BTS SIO</a>
     </h2>
 </div>
