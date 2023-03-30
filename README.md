@@ -38,6 +38,8 @@
         <a href="https://github.com/LiliwoL/Vue-Cours-Metaux-Precieux">Cours des métaux précieux</a>
         <br/>
         <a href="https://github.com/LiliwoL/Vue-Raspberry-Domotique-Prises-Connectees">Frontend pour un projet Raspberry Pi de prises connectées</a>
+        <br />
+        <a href="https://github.com/LiliwoL/Vue-Frontend-API-Gestion-Stages-Etudiants">Frontend API pour le projet de gestion de stage des étudiants de BTS SIO</a>
     </h2>
     <br/><br/>
     <hr/>
@@ -51,7 +53,7 @@
     <br/><br/>
     <hr/>
     <h2 id="raspberry">
-        Projets pour les raspberry pi:
+        Projets pour les Raspberry Pi:
         <br/>
         <a href="https://github.com/LiliwoL/Python-Raspberry-Domotique-Prises-Connectees">Backend pour un projet Raspberry Pi de prises connectées</a>        
         <br/>
