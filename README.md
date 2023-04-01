@@ -85,5 +85,6 @@
         <br/>
         <a href="https://github.com/LiliwoL/Javascript-Super-Simon">Jeu Super Simon</a>
         <br/>
+        <a href="https://github.com/LiliwoL/Javascript-Memory-Game">Jeu Memory (2 versions)</a>
     </h2>
 </div>
