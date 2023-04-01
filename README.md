@@ -29,6 +29,7 @@
         <a href="#raspberry"><img src="./readme_docs/raspberrypi-original-wordmark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;</a>
         <a href="#docker"><img src="./readme_docs/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</a>
         <a href="#symfony"><img src="./readme_docs/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;</a>
+        <a href="#javascript"><img src="./readme_docs/javascript-plain.svg" title="Javascript" alt="Symfony" width="40" height="40"/>&nbsp;</a>
     </div>
     <br/><br/>
     <hr/>
@@ -39,7 +40,7 @@
         <br/>
         <a href="https://github.com/LiliwoL/Vue-Raspberry-Domotique-Prises-Connectees">Frontend pour un projet Raspberry Pi de prises connectées</a>
         <br />
-        <a href="https://github.com/LiliwoL/Vue-Frontend-API-Gestion-Stages-Etudiants">Frontend API pour le projet de gestion de stage des étudiants de BTS SIO</a>
+        <a href="https://github.com/LiliwoL/Vue-Frontend-API-Gestion-Stages-Etudiants">Frontend API Gestion de stages des étudiants - BTS SIO</a>
     </h2>
     <br/><br/>
     <hr/>
@@ -76,5 +77,13 @@
         <a href="https://github.com/LiliwoL/Symfony-Sortir-dot-com">Sortir.com - BTS SIO</a>
         <br/>
         <a href="https://github.com/LiliwoL/Symfony-Cine">SymfonyCine - BTS SIO</a>
+    </h2>
+    <br/><br/>
+    <hr/>
+    <h2 id="javascript">
+        Projets Javascript:
+        <br/>
+        <a href="https://github.com/LiliwoL/Javascript-Super-Simon">Jeu Super Simon</a>
+        <br/>
     </h2>
 </div>
