@@ -86,5 +86,7 @@
         <a href="https://github.com/LiliwoL/Javascript-Super-Simon">Jeu Super Simon</a>
         <br/>
         <a href="https://github.com/LiliwoL/Javascript-Memory-Game">Jeu Memory (2 versions)</a>
+        <br/>
+        <a href="https://github.com/LiliwoL/Javascript-Pacman">Jeu PacMan (librairie Phaser)</a>
     </h2>
 </div>
