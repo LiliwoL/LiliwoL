@@ -90,6 +90,5 @@
         <a href="https://github.com/LiliwoL/Javascript-Pacman">Jeu PacMan (librairie Phaser)</a>
         <br/>
         <a href="https://github.com/LiliwoL/Javascript-Snake-Game">Jeu Snake</a>
-
     </h2>
 </div>
