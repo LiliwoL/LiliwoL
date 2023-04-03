@@ -29,7 +29,7 @@
         <a href="#raspberry"><img src="./readme_docs/raspberrypi-original-wordmark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;</a>
         <a href="#docker"><img src="./readme_docs/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</a>
         <a href="#symfony"><img src="./readme_docs/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;</a>
-        <a href="#javascript"><img src="./readme_docs/javascript-plain.svg" title="Javascript" alt="Symfony" width="40" height="40"/>&nbsp;</a>
+        <a href="#javascript"><img src="./readme_docs/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;</a>
     </div>
     <br/><br/>
     <hr/>
@@ -82,6 +82,10 @@
     <hr/>
     <h2 id="javascript">
         Projets Javascript:
+        <br/>
+        <a href="https://github.com/LiliwoL/Javascript-Movie">Movie App - Client API de TheMovieDataBase</a>
+        <br/>
+        <a href="https://github.com/LiliwoL/Javascript-Meteo">Meteo App - Client API de OpenWeatherMap</a>
         <br/>
         <a href="https://github.com/LiliwoL/Javascript-Super-Simon">Jeu Super Simon</a>
         <br/>
