@@ -104,5 +104,7 @@
         <a href="https://github.com/LiliwoL/Javascript-Snake-Game">Jeu Snake</a>
         <br/>
         <a href="https://github.com/LiliwoL/Javascript-Carte-Stationnements-Handicap">Affichage des stationnements handicapés à La Rochelle</a>
+        <br/>
+        <a href="https://github.com/LiliwoL/Javascript-Random-User-API">User App - Utilisation de l'API randomuser.me</a>
     </h2>
 </div>
