@@ -18,7 +18,7 @@
     </a>
     <p>
         <em>
-            Web dev teacher at <a href="https://fenelon-notredame.com">Lycée Fénelon Notre Dame    <img src="https://github.com/LiliwoL/LiliwoL/blob/main/readme_docs/fenelon.png?raw=true" width="50"></a></br>Developer Consultant at <a href="https://www.liliwol.fr">LiliwoL   <img src="https://www.root-me.org/IMG/logo/auton697507.png?1674410558" width="50"></a> 
+            Web dev teacher at <a href="https://campus.fenelon-notredame.com">Campus Fénelon Notre Dame    <img src="https://github.com/LiliwoL/LiliwoL/blob/main/readme_docs/fenelon.png?raw=true" width="50"></a></br>Developer Consultant at <a href="https://www.liliwol.fr">LiliwoL   <img src="https://www.root-me.org/IMG/logo/auton697507.png?1674410558" width="50"></a> 
         </em>
     </p>
     <br/><br/>
