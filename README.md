@@ -23,6 +23,29 @@
     </p>
     <br/><br/>
     <hr/>
+    <h2>
+        Dépôts utilisés en BTS SIO:
+    </h2>
+    <br/>
+    <div>
+        <a href="https://github.com/LiliwoL/PHP-festivals-de-france">
+            Festivals de France - PHP, MySQL
+        </a>
+        <br/>
+        <a href="https://github.com/LiliwoL/SymfonyCine">
+            Projet en Symfony: SymfonyCiné
+        </a>
+        <br />
+        <a href="https://github.com/LiliwoL/Docker-B3-Cybersecurite">
+            Docker utilisé en Bloc 3 Cybersécurité
+        </a>
+        <br />
+        <a href="https://github.com/LiliwoL/Docker-Wordpress">
+            Dépôt pour découvrir Docker et Wordpress
+        </a>
+    </div>
+    <hr/>
+    <br/><br/>
     <div>
         <a href="#vuejs"><img src="./readme_docs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;</a>
         <a href="#python"><img src="./readme_docs/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
